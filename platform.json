@@ -21,7 +21,7 @@
     "type": "git",
     "url": "https://github.com/vashadow/ArduinoCore-renesas.git#1.2.2-9N1-Without_API_Mods"
   },
-  "version": "1.4.0",
+  "version": "1.4.1",
   "frameworks": {
     "arduino": {
       "package": "framework-arduinorenesas-uno",
